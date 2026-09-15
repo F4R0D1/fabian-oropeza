@@ -25,7 +25,7 @@ Communications and Electronics Engineer specializing in Software Quality Assuran
 
 ### 📁 Projects & Documentation
 
-- 📄 **[Download CV (PDF)](./docs/CV_Fabian_Oropeza.pdf)**
+- 📄 **[Download CV (PDF)](./docs/CV_Fabian_Oropeza_QA_Engineer.pdf)**
 - 🎓 **[Diplomas & Certifications](./certifications/)** (PMI - ITESO | Industrial Automation)
 - 🧪 **[API & Automation Practice](./projects/)**
 
