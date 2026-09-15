@@ -17,9 +17,9 @@ Communications and Electronics Engineer specializing in Software Quality Assuran
 
 ### 🎓 Education
 
-- 🎓 **[Electronic Title - LICENCIATURA EN INGENIERÍA EN COMUNICACIONES Y ELECTRÓNICA (PDF)](./Título Electrónico/RG_216786861_INCE.pdf)**
-- 📜 **[Diploma - PROJECT MANAGEMENT USING THE PMI METHOD](./Diplomas/Diploma_PMI_Fabian Oropeza.pdf)** (ITESO | PROJECT MANAGEMENT USING THE PMI METHOD)
-- 📜 **[Diploma - Industrial Automation and Control](./Diplomas/Diplomado_en_Automatizacion_y_Control_Industrial.pdf)** (CUCEI | Industrial Automation and Control)
+- 🎓 **[LICENCIATURA EN INGENIERÍA EN COMUNICACIONES Y ELECTRÓNICA](./Titulo_Electronico/RG_216786861_INCE.pdf)**
+- 📜 **[Diploma - PROJECT MANAGEMENT USING THE PMI METHOD](./Diplomas/Diploma_PMI_Fabian_Oropeza.pdf)** (ITESO)
+- 📜 **[Diploma - Industrial Automation and Control](./Diplomas/Diplomado_en_Automatizacion_y_Control_Industrial.pdf)** (CUCEI)
 - 📄 **[Python Certificate](./Diplomas/Python.pdf)** (Python)
 
 ---
