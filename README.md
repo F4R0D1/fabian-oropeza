@@ -15,18 +15,18 @@ Communications and Electronics Engineer specializing in Software Quality Assuran
 
 ---
 
-### 📁 Education
+### 🎓 Education
 
-- 📄 **[Download CV (PDF)](./docs/CV_Fabian_Oropeza.pdf)**
-- 🎓 **[Diplomas & Certifications](./certifications/)** (PMI - ITESO | Industrial Automation)
-- 🧪 **[API & Automation Practice](./projects/)**
+- 🎓 **[Electronic Title - LICENCIATURA EN INGENIERÍA EN COMUNICACIONES Y ELECTRÓNICA (PDF)](./Título Electrónico/RG_216786861_INCE.pdf)**
+- 📜 **[Diploma - PROJECT MANAGEMENT USING THE PMI METHOD](./Diplomas/Diploma_PMI_Fabian Oropeza.pdf)** (ITESO | PROJECT MANAGEMENT USING THE PMI METHOD)
+- 📜 **[Diploma - Industrial Automation and Control](./Diplomas/Diplomado_en_Automatizacion_y_Control_Industrial.pdf)** (CUCEI | Industrial Automation and Control)
+- 📄 **[Python Certificate](./Diplomas/Python.pdf)** (Python)
 
 ---
 
 ### 📁 Projects & Documentation
 
 - 📄 **[Download CV (PDF)](./docs/CV_Fabian_Oropeza_QA_Engineer.pdf)**
-- 🎓 **[Diplomas & Certifications](./certifications/)** (PMI - ITESO | Industrial Automation)
 - 🧪 **[API & Automation Practice](./projects/)**
 
 ---
